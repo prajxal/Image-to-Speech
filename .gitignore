@@ -398,3 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 
 .env
+
+audio-img/
+img/
+img-audio/
