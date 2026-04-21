@@ -32,12 +32,6 @@ HUGGINGFACE_API_TOKEN=<your-huggingface-token>
 streamlit run app.py
 ```
 
-## Demo
-
-![Demo: Couple Test Image Output](img-audio/CoupleOutput.jpg)
-
-Audio samples for test images are in the `img-audio/` folder.
-
 ## Requirements
 
 ```
