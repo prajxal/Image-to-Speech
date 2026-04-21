@@ -402,3 +402,7 @@ FodyWeavers.xsd
 audio-img/
 img/
 img-audio/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
