@@ -1,7 +1,7 @@
 transformers
 torch
-langchain
-openai
+sentencepiece
 python-dotenv
 requests
 streamlit
+Pillow
